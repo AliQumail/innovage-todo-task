@@ -1,0 +1,21 @@
+.add-btn{
+    position: relative;
+    bottom: 2px;
+    margin-left: 10px;
+   
+    
+}
+
+.todo-text{
+    font-size: 1.3rem;
+   
+}
+
+.todo-box{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 10px;
+    width: 40%;
+    margin:auto;
+    background-color: rgb(249, 249, 247);
+  
+}
